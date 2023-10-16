@@ -1,0 +1,15 @@
+h1{
+    color: hsl(16, 100%, 66%);
+}
+
+.lista-principale{
+    color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.h3{
+    
+    text-align: center;
+}
