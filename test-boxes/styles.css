@@ -1,5 +1,26 @@
-.titolo{
-    border:3px solid red;
-    padding: 10px;
-    margin: 40px;
+div{
+    border: red;
+}
+
+.one{
+    background: pink;
+    padding: 32px;
+    margin: 12px;
+    border: 3px solid blue;
+}
+
+.two{
+    background: lightblue;
+    border: 3px solid purple;
+    margin-bottom: 48px;
+
+
+}
+
+.three{
+    background: peachpuff;
+    border: 3px solid brown;
+    width: 200px;
+    padding:32px;
+    margin-left:auto;
 }
