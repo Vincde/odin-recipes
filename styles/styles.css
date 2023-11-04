@@ -2,6 +2,13 @@
     border:2px solid red;
 } */
 
+
+img{
+    display:block;
+    margin:auto;
+}
+
+
 h1{
     margin:auto;
     text-align: center;
@@ -33,4 +40,44 @@ h1{
     background: whitesmoke;
     
 }
+
+.recipe{
+    margin-top: 80px;
+    text-align: center;
+    color: gray;
+}
+
+.description{
+    width:200px;
+    margin:auto;
+    
+    
+}
+
+.ingredienti{
+    border:5px solid goldenrod;
+    margin-top:20px;
+
+    
+}
+
+h3{
+    margin-top:0px;
+    font-size: 20px;
+    color: blueviolet;
+}
+
+.preparazione{
+    border: 8px dashed tan;
+    margin-top:20px;
+}
+
+.ingredienti ul{
+    border:4px solid teal;
+}
+
+.preparazione ol{
+    border:4px solid brown;
+}
+
 
